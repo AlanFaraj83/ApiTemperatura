@@ -27,7 +27,7 @@
 
 ## 📝 Licença
 
-Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE]  para mais detalhes.
+Esse projeto está sob a licença MIT. Veja o arquivo https://github.com/AlanFaraj83/ApiTemperatura/tree/main?tab=MIT-1-ov-file#readme para mais detalhes.
 
 
 <p align="center">
